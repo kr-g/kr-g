@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+find my git repositories [here](https://github.com/kr-g?tab=repositories)
+
+
+
 <!--
 **kr-g/kr-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
